@@ -1,5 +1,7 @@
 ## Hi There,I'm nya!
 
+![](https://img.shields.io/badge/Tool-NeoVim-blue)
+
 <center>I'm a student from China.</center>
 
 <p align="center">
