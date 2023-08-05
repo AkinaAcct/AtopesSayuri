@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yunlingfly">
+  <a href="https://github.com/nya-main">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nya-main&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
