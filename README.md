@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1200&color=66CCFF&center=true&vCenter=true&repeat=true&width=1400&height=60&lines=Hi+there!+I'm+nya%2Ca+senior+high+school+student+from+China.)](https://git.io/typing-svg)
 
+*For more information about me, go [here](https://blog.nnyyaa.eu.org/about/).*
+
 ![](https://img.shields.io/badge/Tool-NeoVim-blue) ![](https://img.shields.io/badge/Learning-Python-orange) ![](https://img.shields.io/badge/Grade-10-purple)
 
 <p align="center">
