@@ -16,3 +16,4 @@
 
 For more information about me, go *[here](https://blog.nnyyaa.eu.org/about/)*.
 
+Also, [this](https://github.com/fish-acct) is my friend's GitHub account. Follow her! :)
