@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/nya-main">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nya-main&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nya-main&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&count_private=true&hide=prs,issues"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nya-main">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nya-main&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nya-main&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
