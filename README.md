@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/nya-main)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+![visitors](https://count.getloli.com/get/@nya-main?theme=rule34)
 
 For more information about me, go *[here](https://blog.nnyyaa.eu.org/about/)*.
 
