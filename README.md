@@ -4,9 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/AtopesSayuri">
-    <img src="https://github-readme-stats.vercel.app/api?username=AtopesSayuri&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&count_private=true&hide=prs,issues"/>
+    <img src=https://github-readme-stats.vercel.app/api?username=Atopessayuri&show_icons=true&theme=tokyonight&title_color=66ccff&include_all_commits=true&custom_title=STATUS&count_private=true/>
   </a>
 </p>
+
+<!-- last version
+<p align="center">
+  <a href="https://github.com/AtopesSayuri">
+    <img src="https://github-readme-stats.vercel.app/api?username=AtopesSayuri&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&count_private=true&hide=prs,issues"/>
+  </a>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/AtopesSayuri">
