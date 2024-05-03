@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AtopesSayuri">
-    <img src=https://github-readme-stats.vercel.app/api?username=Atopessayuri&show_icons=true&theme=tokyonight&title_color=66ccff&include_all_commits=true&custom_title=STATUS&count_private=true/>
+    <img src=https://github-readme-stats.vercel.app/api?username=Atopessayuri&show_icons=true&title_color=66ccff&theme=tokyonight&include_all_commits=true&custom_title=STATUS&hide_border=true&count_private=true/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/AtopesSayuri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtopesSayuri&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtopesSayuri&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
