@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/AkinaAcct">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinaAcct&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinaAcct&layout=compact&hide_border=true&title_color=66ccff&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
