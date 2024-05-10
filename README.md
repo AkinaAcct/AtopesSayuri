@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AkinaAcct">
-    <img src=https://github-readme-stats.vercel.app/api?username=Atopessayuri&show_icons=true&title_color=66ccff&theme=tokyonight&include_all_commits=true&custom_title=STATUS&hide_border=true&count_private=true/>
+    <img src=https://github-readme-stats.vercel.app/api?username=AkinaAcct&show_icons=true&title_color=66ccff&theme=tokyonight&include_all_commits=true&custom_title=STATUS&hide_border=true&count_private=true/>
   </a>
 </p>
 
