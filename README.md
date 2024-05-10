@@ -3,24 +3,24 @@
 ![](https://img.shields.io/badge/Tool-NeoVim-blue)![](https://img.shields.io/badge/Tool-VsCode-blue)  ![](https://img.shields.io/badge/Learning-Python-orange) ![](https://img.shields.io/badge/Grade-10-purple)
 
 <p align="center">
-  <a href="https://github.com/AtopesSayuri">
+  <a href="https://github.com/AkinaAcct">
     <img src=https://github-readme-stats.vercel.app/api?username=Atopessayuri&show_icons=true&title_color=66ccff&theme=tokyonight&include_all_commits=true&custom_title=STATUS&hide_border=true&count_private=true/>
   </a>
 </p>
 
 <!-- last version
 <p align="center">
-  <a href="https://github.com/AtopesSayuri">
-    <img src="https://github-readme-stats.vercel.app/api?username=AtopesSayuri&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&count_private=true&hide=prs,issues"/>
+  <a href="https://github.com/AkinaAcct">
+    <img src="https://github-readme-stats.vercel.app/api?username=AkinaAcct&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&count_private=true&hide=prs,issues"/>
   </a>
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/AtopesSayuri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtopesSayuri&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/AkinaAcct">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinaAcct&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
-![visitors](https://count.getloli.com/get/@AtopesSayuri?theme=rule34)
+![visitors](https://count.getloli.com/get/@AkinaAcct?theme=rule34)
 
 For more information about me, go *[here](https://blog.nnyyaa.eu.org/about/)*.
