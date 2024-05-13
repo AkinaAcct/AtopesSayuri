@@ -1,3 +1,9 @@
+2024.5.12 22:00:28  
+END OF AKINA  
+I DONT WANT TO WRITE CODES ANYMORE.
+
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1200&color=66CCFF&center=true&vCenter=true&repeat=true&width=1400&height=60&lines=Hi+there!+I'm+a+senior+high+school+student+from+China.)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/Tool-NeoVim-blue)![](https://img.shields.io/badge/Tool-VsCode-blue)  ![](https://img.shields.io/badge/Learning-Python-orange) ![](https://img.shields.io/badge/Grade-10-purple)
